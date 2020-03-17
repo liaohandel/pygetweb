@@ -1,0 +1,12 @@
+[Stock_List]
+$,[menu],4,date,stock_SN,Add,Del 
+$,[weblink],2
+#,[link1],1,http://traderoom.cnyes.com/tse/quote2FB.aspx?code=
+#,[nowlink1],1,http://www.google.com/finance/info?q=TPE%3A
+$,[stocksn],2
+#,[mylook],5,2353,2409,1733,3481,3231
+#,[IPC],7,8050,2395,6166,8234,3022,2049,3088
+#,[工業監控],9,3577,3128,3297,3356,3454,4995,5251,5489,6131
+#,[智慧居家],7,3027,3287,3596,5466,6131,8150,9917
+#,[智慧醫療概念股],6,2352,8215,4916,8114,6206,8076
+[END]

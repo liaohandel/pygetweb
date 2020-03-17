@@ -1,0 +1,14 @@
+{
+	"logo":"stock_data_v1.0",
+	"update_time":"2020-03-17",
+	"[menu]":{
+		"stock_item":["date","stock_sn","add","del","cost"]
+	},
+	"[weblink]":{
+		"link1":"http://traderoom.cnyes.com/tse/quote2FB.aspx?code=%s"
+	},
+	"[stocksn]":{
+		"[mylook]":["2353","2409","3231","2382","2408","2330"],
+		"[IPC]":["8050","2395","6166","8234","3022","2049","3088","3481","1733"]
+	}
+}
